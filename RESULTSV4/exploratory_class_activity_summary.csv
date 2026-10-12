@@ -1,0 +1,9 @@
+,valence,valence,valence,arousal,arousal,arousal
+,count,mean,std,count,mean,std
+Class Activity,,,,,,
+Examination,9,3.22,1.2,9,2.33,1.0
+Laboratory Activity,1,2.0,,1,1.0,
+Lecture/Discussion,4,2.75,0.5,4,3.0,0.82
+Presentation/Reporting,2,4.0,0.0,2,5.0,0.0
+Project/Practical Activity,3,3.67,0.58,3,4.0,0.0
+Quiz,11,3.18,0.87,11,2.55,1.21

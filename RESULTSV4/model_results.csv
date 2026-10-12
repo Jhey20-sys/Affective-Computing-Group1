@@ -1,0 +1,15 @@
+features,model,accuracy,macro_f1,target
+Audio: handcrafted,LogReg,0.733,0.722,valence_class
+Audio: handcrafted,SVM,0.7,0.683,valence_class
+Audio: spectrogram CNN,LogReg,0.633,0.612,valence_class
+Audio: spectrogram CNN,SVM,0.533,0.514,valence_class
+Audio: handcrafted,RandomForest,0.5,0.486,valence_class
+Audio: spectrogram CNN,RandomForest,0.433,0.377,valence_class
+Baseline (majority),Baseline,0.6,0.375,valence_class
+Audio: spectrogram CNN,LogReg,0.6,0.55,arousal_class
+Audio: handcrafted,SVM,0.533,0.475,arousal_class
+Audio: handcrafted,LogReg,0.5,0.471,arousal_class
+Audio: spectrogram CNN,RandomForest,0.567,0.466,arousal_class
+Baseline (majority),Baseline,0.667,0.4,arousal_class
+Audio: spectrogram CNN,SVM,0.467,0.4,arousal_class
+Audio: handcrafted,RandomForest,0.433,0.345,arousal_class

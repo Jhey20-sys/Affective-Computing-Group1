@@ -1,0 +1,11 @@
+valence_class,f0_mean,f0_std,rms_mean,rms_max,zcr_mean,duration,word
+non-positive,185.141,7.387,0.118,0.282,0.092,0.656,Grabe
+positive,212.879,5.068,0.095,0.326,0.088,0.832,Grabe
+non-positive,203.267,42.147,0.115,0.278,0.085,0.9,Kapoy
+positive,203.112,38.308,0.078,0.272,0.1,1.237,Kapoy
+non-positive,267.546,30.382,0.134,0.349,0.079,0.907,Libog
+positive,301.304,39.703,0.129,0.221,0.094,0.779,Libog
+non-positive,196.502,9.29,0.114,0.335,0.094,0.864,Salamat
+positive,204.634,24.342,0.102,0.269,0.165,1.467,Salamat
+non-positive,226.378,61.05,0.145,0.327,0.151,0.608,Sayon
+positive,192.198,23.34,0.107,0.402,0.085,1.365,Sayon

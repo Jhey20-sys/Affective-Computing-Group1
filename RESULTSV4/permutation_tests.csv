@@ -1,0 +1,3 @@
+target,best,observed_macro_f1,baseline_macro_f1,chance_mean,n_perm,p_value
+valence_class,Audio: handcrafted (LogReg),0.722,0.375,0.49,1000,0.018
+arousal_class,Audio: spectrogram CNN (LogReg),0.55,0.4,0.484,1000,0.3
